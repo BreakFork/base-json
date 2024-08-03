@@ -1,0 +1,327 @@
+[
+    {
+        "title": "Hervé Boulangué",
+        "subtitle": "developpeur frontend",
+        "intro": "Je suis Hervé Boulangué, développeur front-end junior. Après plusieurs années à coder pour le plaisir, j'ai entrepris de me former en développement web. Je présente dans ce portfolio un petit tour d'horizon de ma formation en ligne chez Openclassrooms.",
+        "skillsSubtitle": "Mes compétences :",
+        "skillsParagraph": "Voici une liste non exhaustive des technologies que j'utilise. Tailwind CSS, Swagger, les dev-tools et autres extensions comme Lighthouse et Wave pour le référencement... - la section Projets entre plus dans les détails",
+        "skillsList": [
+            {
+                "logo": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/skills/logo-1.svg",
+                "alt": "Logo de la technologie Javascript",
+                "name": "Javascript",
+                "width": "512",
+                "height": "512"
+            },
+            {
+                "logo": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/skills/logo-2.svg",
+                "alt": "Logo de la technologie HTML",
+                "name": "HTML",
+                "width": "512",
+                "height": "512"
+            },
+            {
+                "logo": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/skills/logo-3.svg",
+                "alt": "Logo de la technologie CSS",
+                "name": "CSS",
+                "width": "512",
+                "height": "512"
+            },
+            {
+                "logo": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/skills/logo-4.svg",
+                "alt": "Logo de la technologie SASS",
+                "name": "SASS",
+                "width": "512",
+                "height": "512"
+            },
+            {
+                "logo": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/skills/logo-5.svg",
+                "alt": "Logo de la technologie NodeJS",
+                "name": "Node JS",
+                "width": "512",
+                "height": "512"
+            },
+            {
+                "logo": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/skills/logo-6.svg",
+                "alt": "Logo de la technologie Mongo DB",
+                "name": "Mongo",
+                "width": "512",
+                "height": "512"
+            },
+            {
+                "logo": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/skills/logo-7.svg",
+                "alt": "Logo de la technologie GitHub",
+                "name": "GitHub",
+                "width": "512",
+                "height": "512"
+            },
+            {
+                "logo": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/skills/logo-8_135-121.webp",
+                "alt": "Logo de la technologie React",
+                "name": "React",
+                "width": "135",
+                "height": "121"
+            }
+        ],
+        "projects": [
+            {
+                "id": "project_1",
+                "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/modal/p1_modal_606-402.webp",
+                "alt": "Photo des Calanques de Marseille par une belle journée",
+                "width": "606",
+                "height": "402",
+                "title": "Booki",
+                "description": "Location d'hébergements",
+                "project": {
+                    "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/projects/p1_project_606-402.webp",
+                    "alt": "Photo des Calanques de Marseille par une belle journée",
+                    "width": "606",
+                    "height": "402",
+                    "position": "50% 80%",
+                    "title": "Booki",
+                    "tags": [
+                        "HTML",
+                        "CSS",
+                        "JSON",
+                        "Figma"
+                    ],
+                    "synopsis": "L’entreprise Booki souhaite développer un site qui permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix.",
+                    "goals": [
+                        "Implémenter une interface responsive avec HTML et CSS.",
+                        "Intégrer du contenu conformément à une maquette avec HTML et CSS.",
+                        "Versionner son projet avec Git et Github.",
+                        "Installer un environnement de développement front-end."
+                    ],
+                    "implementation": "Ce projet m'a amené a intégrer une interface en HTML et CSS, à partir d'une maquette Figma. De ne pas forcément se fier à l'outil code de Figma et saisir les enjeux de la comparaison entre une maquette 'figée' et le résultat dans le navigateur, particulièrement entre les différents breakpoints.",
+                    "linksList": [
+                        {
+                            "linkName": "GitHub",
+                            "linkURL": "https://github.com/BreakFork/booki-projet-2"
+                        },
+                        {
+                            "linkName": "Figma",
+                            "linkURL": "https://openclassrooms.com/fr/paths/717/projects/1332/scenario#:~:text=Maquettes%20du%20site%20Booki"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "project_2",
+                "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/modal/p2_modal_595-388.webp",
+                "alt": "Photo d'un intérieur chic provenant d'une réalisation de Sophie Bluel",
+                "width": "595",
+                "height": "388",
+                "title": "Portfolio de Sophie Bluel",
+                "description": "Portfolio en Javascript",
+                "project": {
+                    "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/projects/p2_project_595-388.webp",
+                    "alt": "Photo d'un intérieur chic provenant d'une réalisation de Sophie Bluel",
+                    "width": "595",
+                    "height": "388",
+                    "position": "50% 90%",
+                    "title": "Portfolio Sophie Bluel",
+                    "tags": [
+                        "Javascript",
+                        "HTML",
+                        "CSS",
+                        "Figma"
+                    ],
+                    "synopsis": "Vous êtes envoyé en renfort comme développeur front-end d’une équipe qui travaille sur la conception du site portfolio d’une architecte d’intérieur.",
+                    "goals": [
+                        "Gérer les événements utilisateurs avec JavaScript.",
+                        "Manipuler les éléments du DOM avec JavaScript.",
+                        "Récupérer les données utilisateurs dans le JavaScript via des formulaires."
+                    ],
+                    "implementation": "La réalisation du portfolio de l'architecte d'intérieur Sophie Bluel, m'a amené à créer des pages web dynamiques en Javascript. Il a fallu gérer les intéractions utilisateurs en manipulant le DOM et communiquer avec des APIs.",
+                    "linksList": [
+                        {
+                            "linkName": "GitHub",
+                            "linkURL": "https://github.com/BreakFork/P3-Portfolio-architecte-sophie-bluel"
+                        },
+                        {
+                            "linkName": "Figma",
+                            "linkURL": "https://www.figma.com/file/kfKHknHySoTibZfdolGAX6/Desktop?node-id=0%3A1"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "project_3",
+                "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/modal/p3_modal_636-334.webp",
+                "alt": "photo d'un tapas appetissant",
+                "width": "636",
+                "height": "334",
+                "title": "Menu Maker by Qwenta",
+                "description": "Chef de projet",
+                "project": {
+                    "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/projects/p3_project_636-334.webp",
+                    "alt": "photo d'un tapas appetissant",
+                    "width": "636",
+                    "height": "334",
+                    "position": "50% 80%",
+                    "title": "Menu Maker by Qwenta",
+                    "tags": [
+                        "Veille technologique",
+                        "Kanban",
+                        "Wakelet",
+                        "Trello",
+                        "SCRUM"
+                    ],
+                    "synopsis": "Le client Qwenta souhaite faire développer un “Menu Maker” : un site permettant aux restaurateurs d’afficher et de mettre en page leurs menus facilement.",
+                    "goals": [
+                        "Découper une fonctionnalités en tâches pour préparer le développement.",
+                        "Mettre en place une méthode de veille technologique.",
+                        "Présenter la solution technique.",
+                        "Rédiger les spécifications techniques d'un projet web à partir de besoins fonctionnels",
+                        "Suivre le déroulement du projet grâce à un outil de gestion de projet"
+                    ],
+                    "implementation": "Un projet permettant de se glisser dans le rôle de 'chef de projet'. Après l'étude des spécification fonctionnelles et le Figma, j'ai réalisé le kanban du projet et exposé le Trello de l'application ainsi que l'approche SCRUM.",
+                    "linksList": [
+                        {
+                            "linkName": "Wakelet",
+                            "linkURL": "https://wakelet.com/wake/6yqXMx5uQYfbtzpsBXwW-"
+                        },
+                        {
+                            "linkName": "Trello",
+                            "linkURL": "https://trello.com/b/0dAx4GwC/conduite-"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "project_4",
+                "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/projects/p4_project_502-382.webp",
+                "alt": "Photo de presentoir de livres dans une librairie",
+                "width": "502",
+                "height": "382",
+                "title": "Mon Vieux Grimoire",
+                "description": "Développement backend",
+                "project": {
+                    "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/modal/p4_modal_1440-619..webp",
+                    "alt": "Photo d'une très grande bibliothèque moderne et lumineuse",
+                    "width": "1440",
+                    "height": "619",
+                    "title": "Mon Vieux Grimoire",
+                    "position": "50% 55%",
+                    "tags": [
+                        "Express",
+                        "Mongo DB",
+                        "Mongoose",
+                        "CRUD",
+                        "MVC",
+                        "Sharp Multer",
+                        "Node JS"
+                    ],
+                    "synopsis": "Ce projet vous amène à développer le back-end d'un site de notation de livres. Votre rôle sera de créer un serveur avec Express et de le connecter à une base de données MongoDB. Cela impliquera la mise en place de la structure du serveur et la gestion de la communication entre le serveur et la base de données.",
+                    "goals": [
+                        "Implémenter un modèle logique de données conformément à la réglementation.",
+                        "Mettre en œuvre des opérations CRUD de manière sécurisée.",
+                        "Stocker des données de manière sécurisée."
+                    ],
+                    "implementation": "Ce projet m'a amené à développer le back-end d'un site de notation de livres et la mise en place d'un serveur Express, connecté à une base de données MongoDB. L'implémentation du CRUD a nécessité une attention particulière en terme de sécurisation des données, ainsi que leur stockage. L'optimisation des images et de leur chargement a été réalisé dans un esprit Green Code à l'aide de Sharp Multer.",
+                    "linksList": [
+                        {
+                            "linkName": "GitHub",
+                            "linkURL": "https://github.com/BreakFork/Mon-Vieux-Grimoire"
+                        },
+                        {
+                            "linkName": "Figma",
+                            "linkURL": "https://www.figma.com/file/Snidyc45xi6qchoOPabMA9/Maquette-Mon-Vieux-Grimoir?node-id=0%3A1"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "project_5",
+                "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/modal/p5_modal_768-766.webp",
+                "alt": "Gros plan sur un appareil photo vintage de marque Leika",
+                "width": "320",
+                "height": "319",
+                "title": "Nina Carducci",
+                "description": "Débug et optimisation",
+                "project": {
+                    "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/projects/p5_project_320-319.webp",
+                    "alt": "Gros plan sur un appareil photo vintage de marque Leika",
+                    "width": "768",
+                    "height": "766",
+                    "title": "Nina Carducci",
+                    "tags": [
+                        "SEO",
+                        "Wave",
+                        "Lighthouse",
+                        "Chrome Dev Tools"
+                    ],
+                    "synopsis": "Dans ce projet, vous travaillerez en tant que développeur freelance pour optimiser le référencement d’un site, en améliorant sa performance et son accessibilité.",
+                    "goals": [
+                        "Optimiser les performances d’un site web.",
+                        "Débugger un site web grâce aux Chrome DevTools.",
+                        "Rédiger un cahier de recette pour tester un site."
+                    ],
+                    "implementation": "La photographe Nina Carducci possède un site présentant plusieurs problèmes. Ce projet m'a permis de renter dans un code existant et de l'optimiser. En effet le système de filtre de la gallerie ne fonctionnait pas. Le site présentait aussi d'énormes problèmes de chargement au niveau des images (non optimisées). J'ai réaliser un cahier de recette pour tester le site et mis en place l'optimisation de son référencement.",
+                    "linksList": [
+                        {
+                            "linkName": "GitHub",
+                            "linkURL": "https://github.com/BreakFork/nina-carducci.github.io"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "project_6",
+                "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/modal/p8_modal_600-400.webp",
+                "alt": "Photo d'un intérieur d'appartement en location sur le site Kasa",
+                "width": "600",
+                "height": "400",
+                "title": "Kasa",
+                "description": "Clone AirBnB en React",
+                "project": {
+                    "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/galleries/projects/p8_project_600-400.webp",
+                    "alt": "Photo d'un intérieur d'appartement en location sur le site Kasa",
+                    "width": "600",
+                    "height": "400",
+                    "position": "55% 11%",
+                    "title": "Kasa",
+                    "tags": [
+                        "React",
+                        "React-Router-Dom",
+                        "SASS",
+                        "Node JS",
+                        "JSON",
+                        "Figma"
+                    ],
+                    "synopsis": "Avec plus de 500 annonces postées chaque jour, Kasa fait partie des leaders de la location d’appartements entre particuliers en France. Le site codé il y a maintenant plus de 10 ans en ASP.NET avec un code legacy important, à besoin d'une refonte totale et passer à une stack complète en JavaScript avec NodeJS côté back-end, et React côté front-end",
+                    "goals": [
+                        "Initialiser une application avec Create React App.",
+                        "Configurer la navigation entre les pages de l'application avec React Router.",
+                        "Développer des éléments de l'interface d'un site web grâce à des composants React.",
+                        "Mettre en œuvre des animations CSS.",
+                        "Développer une interface web avec Sass."
+                    ],
+                    "implementation": "Ce projet est la refonte de l'application Kasa, un site d'agence immobilière. En se basant sur la maquette Figma et un backend Node JS, j'ai réalisé l'ensemble des composants React et mis en place une navigation utilisant React-Router-Dom. L'utilisation de SASS pour le CSS, à permis de  gérer le DRY, notammant au niveau des animations d'interface",
+                    "linksList": [
+                        {
+                            "linkName": "GitHub",
+                            "linkURL": "https://github.com/BreakFork/Kasa"
+                        },
+                        {
+                            "linkName": "Figma",
+                            "linkURL": "https://www.figma.com/file/2BZEoBhyxt5IwZgRn0wGsL/Kasa_FR?type=design&node-id=0-1&mode=design&t=1KgUwWWFtuAVbsJ5-0"
+                        }
+                    ]
+                }
+            }
+        ],
+        "avatar": {
+            "src": "https://raw.githubusercontent.com/BreakFork/base-img/main/hbportfolio/assets/images/avatar/avatar_274-330.webp",
+            "alt": "Photo de Hervé Boulangué, developpeur Frontend",
+            "width": "274",
+            "height": "330"
+        },
+        "contactStatut": "disponible",
+        "contactParagraph": "Quel que soit votre demande { ou mon statut 🧑🏼‍💻 }, n'hésitez pas à me contacter par mail ou sur les réseaux.",
+        "contactMail": "mailto:h.boulangue@icloud.com",
+        "contactLinkedin": "https://linkedin.com/in/hervé-boulangué-392915b1",
+        "contactX": "https://x.com/enfinun",
+        "contactGithub": "https://github.com/BreakFork"
+    }
+]
